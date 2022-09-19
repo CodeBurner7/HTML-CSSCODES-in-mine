@@ -1,0 +1,25 @@
+#navbar{
+
+list-style-type: none;
+border: 1px solid ;
+padding: 10px;
+background-color:  black;
+color:white  ;
+
+
+}
+#navbar li{
+
+    display: inline;
+   
+    margin: 10px;
+    /* background-color: red; */
+    padding: 10px;
+
+}
+
+#navbar li:hover{
+
+
+    background-color: red ;
+}
